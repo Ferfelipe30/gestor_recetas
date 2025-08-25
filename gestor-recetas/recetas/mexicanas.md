@@ -1,4 +1,6 @@
-# mexicanas.md 
+# mexicanas.md
+
+primera resta :
 🌮 Tacos al Pastor
 Ingredientes:
 - Tortillas de maíz
@@ -9,7 +11,7 @@ Preparación:
 1. Marinar la carne con achiote, vinagre y especias.
 2. Cocinar la carne a la plancha.
 3. Servir en tortillas con piña, cebolla y cilantro.
-
+segunda recetas :
 🌯 Enchiladas Verdes
 Ingredientes:
 - Tortillas de maíz
@@ -20,7 +22,7 @@ Preparación:
 1. Freír las tortillas ligeramente.
 2. Rellenar con pollo deshebrado.
 3. Bañar con salsa verde y decorar con queso y crema.
-
+tercera recetas 
 🍲 Pozole Rojo
 Ingredientes:
 - Maíz pozolero
@@ -32,7 +34,7 @@ Preparación:
 2. Cocinar la carne de cerdo en el caldo.
 3. Preparar la salsa de chiles y mezclar con el caldo.
 4. Servir con lechuga, rábano y cebolla.
-
+cuarta recetas :
 🌮 Quesadillas
 Ingredientes:
 - Tortillas de maíz o harina
