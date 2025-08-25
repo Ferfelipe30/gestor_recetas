@@ -1,6 +1,6 @@
 # Recetas Colombianas Tradicionales
 
-## 1. Bandeja Paisa
+## Bandeja Paisa
 
 **Tiempo de preparación:** 2 horas  
 **Porciones:** 4 personas  
@@ -31,7 +31,7 @@
 
 ---
 
-## 2. Ajiaco Santafereño
+## Ajiaco Santafereño
 
 **Tiempo de preparación:** 1.5 horas  
 **Porciones:** 6 personas  
@@ -60,7 +60,7 @@
 
 ---
 
-## 3. Arepas de Queso
+## Arepas de Queso
 
 **Tiempo de preparación:** 45 minutos  
 **Porciones:** 8 arepas  
@@ -82,7 +82,7 @@
 
 ---
 
-## 4. Sancocho de Gallina
+## Sancocho de Gallina
 
 **Tiempo de preparación:** 2.5 horas  
 **Porciones:** 8 personas  
@@ -109,7 +109,7 @@
 
 ---
 
-## 5. Empanadas Colombianas
+## Empanadas Colombianas
 
 **Tiempo de preparación:** 1 hora  
 **Porciones:** 12 empanadas  
@@ -137,7 +137,7 @@
 
 ---
 
-## 6. Lechona Tolimense
+## Lechona Tolimense
 
 **Tiempo de preparación:** 6 horas  
 **Porciones:** 15 personas  
@@ -163,7 +163,7 @@
 
 ---
 
-## 7. Buñuelos
+## Buñuelos
 
 **Tiempo de preparación:** 30 minutos  
 **Porciones:** 20 buñuelos  
@@ -185,7 +185,7 @@
 
 ---
 
-## 8. Natilla
+## Natilla
 
 **Tiempo de preparación:** 45 minutos  
 **Porciones:** 8 personas  
