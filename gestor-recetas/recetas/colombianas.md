@@ -209,3 +209,5 @@
 ---
 
 *¡Disfruta estas deliciosas recetas colombianas! Cada una representa la rica tradición culinaria de diferentes regiones de Colombia.*
+
+Cada ves de prepares estas deliciosas recetas preparalas de forma que esta con el paso a paso.
