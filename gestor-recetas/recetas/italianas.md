@@ -11,7 +11,7 @@
 
 ---
 
-## Pasta Carbonara 🍝
+## Pasta Carbonara
 
 **Tiempo de preparación:** 20 minutos  
 **Porciones:** 4 personas
@@ -39,7 +39,7 @@
 
 ---
 
-## Pizza Margherita 🍕
+## Pizza Margherita
 
 **Tiempo de preparación:** 2 horas (incluyendo reposo de la masa)  
 **Porciones:** 4 personas
@@ -73,7 +73,7 @@
 
 ---
 
-## Risotto ai Funghi 🍄
+## Risotto ai Funghi
 
 **Tiempo de preparación:** 30 minutos  
 **Porciones:** 4 personas
@@ -104,7 +104,7 @@
 
 ---
 
-## Tiramisù 🍰
+## Tiramisù
 
 **Tiempo de preparación:** 30 minutos + 4 horas de refrigeración  
 **Porciones:** 6 personas
@@ -135,7 +135,7 @@
 
 ---
 
-## Osso Buco alla Milanese 🥩
+## Osso Buco alla Milanese
 
 **Tiempo de preparación:** 2 horas  
 **Porciones:** 4 personas
@@ -172,7 +172,7 @@
 
 ---
 
-## Bruschetta 🥖
+## Bruschetta
 
 **Tiempo de preparación:** 15 minutos  
 **Porciones:** 4 personas
@@ -199,7 +199,7 @@
 
 ---
 
-## Lasagna alla Bolognese 🍝
+## Lasagna alla Bolognese
 
 **Tiempo de preparación:** 3 horas  
 **Porciones:** 8 personas
@@ -235,7 +235,7 @@
 
 ---
 
-## Consejos Generales para la Cocina Italiana 🍳
+## Consejos Generales para la Cocina Italiana
 
 1. **Ingredientes de calidad:** Usa siempre los mejores ingredientes disponibles
 2. **Técnica del al dente:** La pasta debe estar firme al morder
