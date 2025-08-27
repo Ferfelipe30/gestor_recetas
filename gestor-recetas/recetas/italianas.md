@@ -245,3 +245,5 @@
 6. **Simplicidad:** Los mejores platos italianos son simples pero bien ejecutados
 
 ¡Buon appetito! 🇮🇹
+
+La comida italina es una sensacion a nivel mundial esperamos que la pueda disfrutar desde cualquier parte del mundo.
