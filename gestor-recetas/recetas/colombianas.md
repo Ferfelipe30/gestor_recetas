@@ -1,35 +1,61 @@
 # Recetas Colombianas Tradicionales
 
-## Bandeja Paisa
+🍽️ Bandeja Paisa
 
-**Tiempo de preparación:** 2 horas  
-**Porciones:** 4 personas  
-**Dificultad:** Media
+⏳ Tiempo de preparación: 2 horas
+👨‍👩‍👧‍👦 Porciones: 4 personas
+⚖️ Dificultad: Media
 
-### Ingredientes:
-- **Frijoles rojos:** 500g
-- **Arroz blanco:** 2 tazas
-- **Carne molida:** 400g
-- **Chicharrón:** 200g
-- **Huevos:** 4 unidades
-- **Aguacate:** 2 unidades
-- **Plátano maduro:** 2 unidades
-- **Arepa:** 4 unidades
-- **Cebolla:** 1 unidad
-- **Ajo:** 3 dientes
-- **Comino:** 1 cucharadita
-- **Sal y pimienta:** al gusto
+🛒 Ingredientes:
 
-### Instrucciones:
-1. **Preparar los frijoles:** Remojar los frijoles durante la noche. Cocinar en olla a presión con cebolla, ajo y comino hasta que estén tiernos.
-2. **Cocinar el arroz:** Preparar arroz blanco con sal al gusto.
-3. **Preparar la carne:** Sofreír la carne molida con cebolla, ajo, sal y pimienta.
-4. **Fritar el chicharrón:** Cortar en trozos y freír hasta que esté crujiente.
-5. **Hacer los huevos:** Freír los huevos uno por uno.
-6. **Fritar el plátano:** Cortar en rodajas y freír hasta dorar.
-7. **Servir:** Colocar todos los ingredientes en un plato grande, cada uno en su sección.
+🫘 Frijoles rojos: 500g (mejor si se dejan en remojo toda la noche).
 
+🍚 Arroz blanco: 2 tazas.
+
+🥩 Carne molida: 400g.
+
+🥓 Chicharrón: 200g (bien carnudito para que quede crocante).
+
+🍳 Huevos: 4 unidades.
+
+🥑 Aguacate: 2 unidades maduros.
+
+🍌 Plátano maduro: 2 unidades.
+
+🫓 Arepa: 4 unidades.
+
+🧅 Cebolla: 1 unidad.
+
+🧄 Ajo: 3 dientes.
+
+🌿 Comino: 1 cucharadita.
+
+🧂 Sal y pimienta: al gusto.
+
+👩‍🍳 Instrucciones paso a paso:
+
+Preparar los frijoles 🫘
+Remojar los frijoles desde la noche anterior para que queden más suaves y cocinarlos en olla a presión con cebolla, ajo y comino hasta que revienten.
+
+Cocinar el arroz 🍚
+Preparar arroz blanco en olla aparte con la proporción de agua justa (2 de agua por 1 de arroz).
+
+Carne molida al estilo paisa 🥩
+Sofreír la carne con cebolla, ajo, sal y pimienta. Se recomienda cocinar a fuego medio para que no pierda jugosidad.
+
+Chicharrón crocante 🥓
+Cortar en trozos y freír a fuego lento para que quede bien dorado y con la piel crocante.
+
+Huevos fritos 🍳
+Freírlos en sartén con un poco de aceite, cuidando que la yema quede jugosa.
+
+Plátano maduro frito 🍌
+Cortar en rodajas o en tiras largas y freír hasta dorar. El toque dulce balancea la sal de la carne.
+
+Servir con estilo paisa 🍽️
+Colocar todos los ingredientes en un plato grande: frijoles, arroz, carne, chicharrón, plátano, huevo, arepa y aguacate.
 ---
+Este plato es un símbolo de la región paisa. Su abundancia representa el trabajo y esfuerzo de la gente de Antioquia, pensado originalmente para dar energía a campesinos y arrieros. 
 
 
 
@@ -75,24 +101,45 @@
 5. **Servir:** Calientes con mantequilla o queso adicional.
 
 ---
+## Sancocho de Gallina
 
+**Tiempo de preparación:** 2.5 horas  
+**Porciones:** 8 personas  
+**Dificultad:** Media
+
+### Ingredientes:
+- **Gallina criolla:** 1 kg
+- **Yuca:** 500g
+- **Ñame:** 300g
+- **Plátano verde:** 2 unidades
+- **Mazorca:** 2 unidades
+- **Cebolla:** 2 unidades
+- **Ajo:** 4 dientes
+- **Cilantro:** 1 manojo
+- **Comino:** 1 cucharadita
+- **Sal:** al gusto
+
+### Instrucciones:
+
+
+-------
 ## Empanadas Colombianas
 
-**Tiempo de preparación:** 1 hora  
-**Porciones:** 12 empanadas  
+**Tiempo de preparación:** 2 hora  
+**Porciones:** 254 empanadas  
 **Dificultad:** Media
 
 ### Ingredientes para la masa:
-- **Harina de maíz precocida:** 2 tazas
-- **Agua tibia:** 2 tazas
-- **Sal:** 1 cucharadita
+- **Harina de maíz precocida:** 5 tazas
+- **Agua tibia:** 3 tazas
+- **Sal:** 3 cucharadita
 
 ### Ingredientes para el relleno:
-- **Carne molida:** 400g
-- **Papa:** 2 unidades
-- **Cebolla:** 1 unidad
+- **Carne molida:** 5000g
+- **Papa:** 4 unidades
+- **Cebolla:** 5 unidad
 - **Ajo:** 2 dientes
-- **Comino:** 1 cucharadita
+- **Comino:** 6 cucharadita
 - **Sal y pimienta:** al gusto
 
 ### Instrucciones:
