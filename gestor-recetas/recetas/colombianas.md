@@ -31,17 +31,11 @@
 
 ---
 
-## Ajiaco Santafereño
 
-**Tiempo de preparación:** 1.5 horas  
-**Porciones:** 6 personas  
-**Dificultad:** Fácil
 
 ### Ingredientes:
 - **Pechuga de pollo:** 1 kg
-- **Papa criolla:** 500g
-- **Papa sabanera:** 500g
-- **Papa pastusa:** 500g
+- **Carne de Cerdo** 4kg
 - **Mazorca:** 2 unidades
 - **Guascas:** 1 manojo
 - **Cebolla larga:** 3 unidades
@@ -49,7 +43,7 @@
 - **Crema de leche:** 200ml
 - **Alcaparras:** 50g
 - **Aguacate:** 1 unidad
-- **Sal:** al gusto
+- **Sal:** 3 cucharas
 
 ### Instrucciones:
 1. **Cocinar el pollo:** En una olla grande, cocinar el pollo con cebolla, ajo y sal hasta que esté tierno.
@@ -79,33 +73,6 @@
 3. **Formar arepas:** Tomar porciones de masa y formar discos de 1 cm de grosor.
 4. **Cocinar:** En una sartén caliente con mantequilla, cocinar las arepas hasta que estén doradas por ambos lados.
 5. **Servir:** Calientes con mantequilla o queso adicional.
-
----
-
-## Sancocho de Gallina
-
-**Tiempo de preparación:** 2.5 horas  
-**Porciones:** 8 personas  
-**Dificultad:** Media
-
-### Ingredientes:
-- **Gallina criolla:** 1 kg
-- **Yuca:** 500g
-- **Ñame:** 300g
-- **Plátano verde:** 2 unidades
-- **Mazorca:** 2 unidades
-- **Cebolla:** 2 unidades
-- **Ajo:** 4 dientes
-- **Cilantro:** 1 manojo
-- **Comino:** 1 cucharadita
-- **Sal:** al gusto
-
-### Instrucciones:
-1. **Cocinar la gallina:** En una olla grande, cocinar la gallina con cebolla, ajo, comino y sal.
-2. **Agregar tubérculos:** Cuando la gallina esté tierna, agregar la yuca, ñame y plátano verde pelados y cortados.
-3. **Cocinar la mazorca:** Agregar la mazorca cortada en trozos.
-4. **Finalizar:** Agregar cilantro picado y dejar cocinar hasta que todos los ingredientes estén tiernos.
-5. **Servir:** Caliente con arroz blanco y ají.
 
 ---
 
