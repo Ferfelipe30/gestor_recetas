@@ -57,17 +57,11 @@ Colocar todos los ingredientes en un plato grande: frijoles, arroz, carne, chich
 ---
 Este plato es un símbolo de la región paisa. Su abundancia representa el trabajo y esfuerzo de la gente de Antioquia, pensado originalmente para dar energía a campesinos y arrieros. 
 
-## Ajiaco Santafereño
 
-**Tiempo de preparación:** 1.5 horas  
-**Porciones:** 6 personas  
-**Dificultad:** Fácil
 
 ### Ingredientes:
 - **Pechuga de pollo:** 1 kg
-- **Papa criolla:** 500g
-- **Papa sabanera:** 500g
-- **Papa pastusa:** 500g
+- **Carne de Cerdo** 4kg
 - **Mazorca:** 2 unidades
 - **Guascas:** 1 manojo
 - **Cebolla larga:** 3 unidades
@@ -75,7 +69,7 @@ Este plato es un símbolo de la región paisa. Su abundancia representa el traba
 - **Crema de leche:** 200ml
 - **Alcaparras:** 50g
 - **Aguacate:** 1 unidad
-- **Sal:** al gusto
+- **Sal:** 3 cucharas
 
 ### Instrucciones:
 1. **Cocinar el pollo:** En una olla grande, cocinar el pollo con cebolla, ajo y sal hasta que esté tierno.
@@ -107,7 +101,6 @@ Este plato es un símbolo de la región paisa. Su abundancia representa el traba
 5. **Servir:** Calientes con mantequilla o queso adicional.
 
 ---
-
 ## Sancocho de Gallina
 
 **Tiempo de preparación:** 2.5 horas  
@@ -129,8 +122,7 @@ Este plato es un símbolo de la región paisa. Su abundancia representa el traba
 ### Instrucciones:
 
 
----
-
+-------
 ## Empanadas Colombianas
 
 **Tiempo de preparación:** 2 hora  
