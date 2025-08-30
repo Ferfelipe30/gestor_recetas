@@ -147,4 +147,6 @@ git checkout main
 git merge feature/recetas-colombianas
 git push origin main
 
-#Capturas de pantalla de PRs, merges y resolucion de conflictos.#
+#Capturas de pantalla de PRs, merges y resolucion de conflictos.
+
+
